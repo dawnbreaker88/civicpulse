@@ -1,0 +1,7 @@
+{
+  "description": "MADE BY PRABHATH",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "CIVICPULSE"
+}
